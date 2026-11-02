@@ -3,9 +3,9 @@
 		
 	],
 	"comodo":[
-		"QUARTO", "SALA", "COZINHA", "BANHEIRO", "LAVANDERIA", "ESCRITORIO", "GARAGEM", "AREALAZER"
+		"Quarto", "Sala", "Cozinha", "Banheiro", "lavanderia", "Escritorio", "Garagem", "Area de lazer"
 	],
 	"categoria":[
-		"MOBILHA", "ITEN", "ELETRODOMESTICO", "CONSUMO", "DECORAÇÃO"
+		"Mobilha", "Iten", "Eletordomestico", "Consumo", "Decoração"
 	]
 }
