@@ -5,7 +5,7 @@
 	"comodo":[
 		"QUARTO", "SALA", "COZINHA", "BANHEIRO", "LAVANDERIA", "ESCRITORIO", "GARAGEM", "AREALAZER"
 	],
-	"caegoria":[
+	"categoria":[
 		"MOBILHA", "ITEN", "ELETRODOMESTICO", "CONSUMO", "DECORAÇÃO"
 	]
 }
