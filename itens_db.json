@@ -6,6 +6,6 @@
 		"Quarto", "Sala", "Cozinha", "Banheiro", "lavanderia", "Escritorio", "Garagem", "Area de lazer"
 	],
 	"categoria":[
-		"Mobilha", "Iten", "Eletordomestico", "Consumo", "Decoração"
+		"Mobilha", "Item", "Eletordomestico", "Consumo", "Decoração"
 	]
 }
