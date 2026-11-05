@@ -1,11 +1,31 @@
 {
-	"itens":[
-		
-	],
-	"comodo":[
-		"Quarto", "Sala", "Cozinha", "Banheiro", "lavanderia", "Escritorio", "Garagem", "Area de lazer"
-	],
-	"categoria":[
-		"Mobilha", "Item", "Eletordomestico", "Consumo", "Decoração"
-	]
+  "itens": [
+    {
+      "nome": "Cama",
+      "foto_exemplo": "https://http2.mlstatic.com/D_NQ_NP_2X_918309-MLA97743445205_112025-F.webp",
+      "link_exemplo": "https://www.mercadolivre.com.br/cama-box-casal-ortobom-com-colchao-espuma-d33-cinza-firme-antiacaro/p/MLB61978680?pdp_filters=item_id%3AMLB7358394800&from=gshop&matt_tool=99415873&matt_word=&matt_source=google&matt_campaign_id=22090193714&matt_ad_group_id=174661962844&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914179413&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB61978680-product&matt_product_partition_id=2496196285568&matt_target_id=aud-2493968549214:pla-2496196285568&cq_src=google_ads&cq_cmp=22090193714&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193714&gbraid=0AAAAAD93qcA--tJbFAS2dzPmXcrziVyOa&gclid=CjwKCAiAqabXBhBUEiwAw_SQpQKmmGaIbhLcyyZbzpyhPmwMUKLvqpSK5YUWcwCO2OIPhSJjq-INGBoC8ZoQAvD_BwE",
+      "comodo": "Quarto",
+      "categoria": "Mobilha",
+      "presente": false,
+      "adquirido": true,
+      "id": 1
+    }
+  ],
+  "comodo": [
+    "Quarto",
+    "Sala",
+    "Cozinha",
+    "Banheiro",
+    "lavanderia",
+    "Escritorio",
+    "Garagem",
+    "Area de lazer"
+  ],
+  "categoria": [
+    "Mobilha",
+    "Item",
+    "Eletordomestico",
+    "Consumo",
+    "Decoração"
+  ]
 }
