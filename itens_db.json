@@ -9,6 +9,16 @@
       "presente": false,
       "adquirido": true,
       "id": 1
+    },
+    {
+      "nome": "Rack",
+      "foto_exemplo": "https://m.media-amazon.com/images/I/61uc8DRsiBL._AC_SL1024_.jpg",
+      "link_exemplo": "https://www.amazon.com.br/Multiuso-Estar-Polegadas-Cedro-MADEIRA/dp/B0HD7V3P2C",
+      "comodo": "Sala",
+      "categoria": "Mobilha",
+      "presente": true,
+      "adquirido": false,
+      "id": 2
     }
   ],
   "comodo": [
