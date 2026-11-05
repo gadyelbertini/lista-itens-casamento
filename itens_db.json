@@ -39,6 +39,16 @@
       "presente": true,
       "adquirido": false,
       "id": 4
+    },
+    {
+      "nome": "Cortinas",
+      "foto_exemplo": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRiadfptN_kzCTnPDUcDuA75iRGv27GdYP-NDYCVKyotjQ2E0xJCtC9nyVOIlQOMgjIvSHh46l60QH_2dGLv3_BG9YBXS6yOi3Lceo1VAoBEDS3PW7j7uX5HA",
+      "link_exemplo": "https://www.amazon.com.br/Cortina-Tecido-Trilho-Quarto-Branco/dp/B0D6P718LL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1UB41JFRKLBVH",
+      "comodo": "Sala",
+      "categoria": "Decoração",
+      "presente": false,
+      "adquirido": false,
+      "id": 5
     }
   ],
   "comodo": [
