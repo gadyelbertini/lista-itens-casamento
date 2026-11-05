@@ -29,6 +29,16 @@
       "presente": false,
       "adquirido": true,
       "id": 3
+    },
+    {
+      "nome": "Tapete",
+      "foto_exemplo": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQlVtLFZ2y0Vkl_fMXUEFJHFFYpe-JjBZfFjZaPAS6-9yi2am6MUIOcCWfWHLeOupoA-KBNkfHdwDx9JJlpf0roXZEf8UXSFYz3ZEKOmAlH",
+      "link_exemplo": "https://www.amazon.com.br/Beatriz-Enxovais-Antiderrapante-Retangular-Confort%C3%A1vel/dp/B0FKD2NCYN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A35U5ZJ9PUGUEG",
+      "comodo": "Sala",
+      "categoria": "Decoração",
+      "presente": false,
+      "adquirido": false,
+      "id": 4
     }
   ],
   "comodo": [
