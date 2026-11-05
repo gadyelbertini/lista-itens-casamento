@@ -19,6 +19,16 @@
       "presente": true,
       "adquirido": false,
       "id": 2
+    },
+    {
+      "nome": "Sofá",
+      "foto_exemplo": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZvxNI4SAeJa16wnM31cs4FCohDU2CITIR2sm3TnXyzXH-suYNPxpUEDYEKAa1esbQSdMHZ39FZ7R783GT1L-NtNz_eay2PvlggTosabxWsfbETudL10z38A",
+      "link_exemplo": "https://www.google.com/aclk?sa=L&ai=DChsSEwjdsMvA6PGXAxUGF_8IHXbwJlcYACICCAEQARoCc20&co=1&ase=2&gclid=Cj0KCQiA77DXBhCHARIsAHf2MNoJKGamOecwsiR_poOxdUk5minyY5HsBbuKh49yPck4wUGCRemZvpEaAnYvEALw_wcB&cid=CAAS3gHkaPvGC8Zjko7D3DVLDLa8VGyPQRYjKI72LzsobVnzHgkvHRInkftLQvprnoS1PQB24QjefBli9MANDdiNe9nh7XEwuEqISWz5CKyg3NsDP9ueG4s__9mISsFGPBSKYFvxGIi7HgjNuSwVm9jFC1yugB2iPVrVAkbQLLxAScTmEUJK2mNunmf4H8NcfYcPSHjxTfklLU1CY0h35wtw3T9-1ZJLUMjJy5BeCS1adpWePeRPtqlgRJLk8uPQH3WPlWbCSUWUUvXoWz7pmjZ5iRxsiUkM4hKof3YFg9NKWUw&cce=2&category=acrcp_v1_32&sig=AOD64_1to1uUS1iRKp9shbEiAecZXCF-0A&ctype=5&q&nis=4&adurl",
+      "comodo": "Sala",
+      "categoria": "Mobilha",
+      "presente": false,
+      "adquirido": true,
+      "id": 3
     }
   ],
   "comodo": [
