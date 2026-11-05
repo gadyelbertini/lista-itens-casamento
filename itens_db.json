@@ -9,16 +9,6 @@
       "presente": false,
       "adquirido": true,
       "id": 1
-    },
-    {
-      "nome": "geladeira",
-      "foto_exemplo": "",
-      "link_exemplo": "",
-      "comodo": "Cozinha",
-      "categoria": "Eletordomestico",
-      "presente": true,
-      "adquirido": false,
-      "id": 2
     }
   ],
   "comodo": [
