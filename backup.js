@@ -4,7 +4,7 @@ try {
   execSync("git config --global user.email 'backup@render.com'");
   execSync("git config --global user.name 'Render Backup'");
 
-  execSync("git add db.json");
+  execSync("git add itens_db.json");
 
   try {
     execSync(`git commit -m "Backup ${new Date().toISOString()}"`);
