@@ -49,6 +49,16 @@
       "presente": true,
       "adquirido": false,
       "id": 5
+    },
+    {
+      "nome": "TV",
+      "foto_exemplo": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQB1kg9oRY5Vq7J_O9YsUV1ZPCeTUuLIo8bVLQ00VREVIMRVkL7Lrw5ov9aZTx_ZQydRZGUfB_4vi0KWsnt0IVsOncIJLs-j7V9e95iBbeWdVeSMDoZiQsSfpg",
+      "link_exemplo": "https://www.google.com/aclk?sa=L&ai=DChsSEwjb5ZnO6fGXAxUgimYCHb7ALNgYACICCAEQARoCc20&co=1&ase=2&gclid=Cj0KCQiA77DXBhCHARIsAHf2MNrGgQJlKQhrNAaXKKsChhN87bRxgfUcQ7w67vNzclW5nfE4U3kvcn4aAv4cEALw_wcB&cid=CAAS3gHkaJ9it4K2VkdpBfPGuRGZTlhCIBuMisHmRLL9RU37Mlb28obt-dDtt59OdKLxsE7l1OI-CU7TH-segXsOg0pZv8yTZ67SKA2iz0N3h9eUCa9rPpsxbwlKQl5IzAMZdY0_LpP8mokk3YRu8Wd16U3btHyJjr0jD0GmHpGD4wmWkhpnfDkUz6diq6SFIQXJPbI0tG-g-_MuN_xFccbUigboY08C7F_yJVkjc_OsG9t5C5GwMmMk0osxW4simysgoHWiOlYy8zpb3OQuBYO8fBB-3yhYGLI6MGSHcZB4aWo&cce=2&category=acrcp_v1_33&sig=AOD64_09mPNutmfZEftmfMjeIV3ipkYcQw&ctype=5&q&nis=4&adurl",
+      "comodo": "Sala",
+      "categoria": "Eletordomestico",
+      "presente": false,
+      "adquirido": false,
+      "id": 6
     }
   ],
   "comodo": [
