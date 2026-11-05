@@ -16,14 +16,22 @@ server.use((req, res, next) => {
 
       console.log("Executando backup...");
 
-      exec("node backup.js", (err, stdout, stderr) => {
-        if (err) {
-          console.error("Erro no backup:", err);
-          return;
-        }
+	  exec("node backup.js", (err, stdout, stderr) => {
+		console.log("STDOUT:", stdout);
+		console.log("STDERR:", stderr);
 
-        console.log(stdout);
-      });
+		if (err) {
+			console.error("Erro:", err);
+		}
+		});
+    //   exec("node backup.js", (err, stdout, stderr) => {
+    //     if (err) {
+    //       console.error("Erro no backup:", err);
+    //       return;
+    //     }
+
+    //     console.log(stdout);
+    //   });
     }
   });
 
