@@ -69,6 +69,16 @@
       "presente": true,
       "adquirido": false,
       "id": 7
+    },
+    {
+      "nome": "Cesto para Roupas",
+      "foto_exemplo": "https://http2.mlstatic.com/D_NQ_NP_2X_850430-MLA95526781368_102025-F.webp",
+      "link_exemplo": "https://www.mercadolivre.com.br/cesto-para-roupas-bambu-dobravel-com-tampa-bege-60l-texfine/p/MLB59142788?pdp_filters=item_id%3AMLB5772496518&matt_tool=38524122&ua=RjqJLSde44aUXkdkNazmMv4Tm2afYyKW6QTDMeIB3AejKJmL#origin=whatsapp&sid=whatsapp&wid=MLB5772496518",
+      "comodo": "Banheiro",
+      "categoria": "Mobilha",
+      "presente": true,
+      "adquirido": false,
+      "id": 8
     }
   ],
   "comodo": [
