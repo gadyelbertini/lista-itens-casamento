@@ -59,6 +59,16 @@
       "presente": false,
       "adquirido": false,
       "id": 6
+    },
+    {
+      "nome": "Tábua De Passar Roupa",
+      "foto_exemplo": "https://http2.mlstatic.com/D_NQ_NP_2X_649723-MLB117718800805_092026-F-tabua-de-passar-roupa-dobravel-3-alturas-com-portaferro.webp",
+      "link_exemplo": "https://www.mercadolivre.com.br/up/MLBU5176281865?matt_tool=38524122&pdp_filters=item_id:MLB5240068729&ua=FX4gE7C7jia-gavzixucnWvFeIKwW9V3pdF3cAHeugsNCpdY#origin=share&sid=share&wid=MLB5240068729&action=whatsapp",
+      "comodo": "lavanderia",
+      "categoria": "Mobilha",
+      "presente": true,
+      "adquirido": false,
+      "id": 7
     }
   ],
   "comodo": [
