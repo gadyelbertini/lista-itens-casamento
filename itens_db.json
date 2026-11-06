@@ -89,6 +89,16 @@
       "presente": true,
       "adquirido": false,
       "id": 9
+    },
+    {
+      "nome": "Geladeira",
+      "foto_exemplo": "https://http2.mlstatic.com/D_NQ_NP_2X_942666-MLA106081888465_012026-F.webp",
+      "link_exemplo": "https://www.mercadolivre.com.br/p/MLB65036412?matt_tool=38524122&pdp_filters=item_id:MLB6229875758&ua=Gmkk7KKbcUz2NYXoUEO5TbgV1JNBcRQdOVe-MRzr7joH4qVI#origin=share&sid=share&wid=MLB6229875758&action=whatsapp",
+      "comodo": "Cozinha",
+      "categoria": "Eletrodomestico",
+      "presente": true,
+      "adquirido": false,
+      "id": 10
     }
   ],
   "comodo": [
