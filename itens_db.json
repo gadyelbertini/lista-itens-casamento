@@ -97,7 +97,7 @@
       "comodo": "Cozinha",
       "categoria": "Eletrodomestico",
       "presente": true,
-      "adquirido": false,
+      "adquirido": true,
       "id": 10
     }
   ],
