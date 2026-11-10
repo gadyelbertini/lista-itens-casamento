@@ -129,6 +129,16 @@
       "presente": true,
       "adquirido": false,
       "id": 13
+    },
+    {
+      "nome": "Chaleira Elétrica",
+      "foto_exemplo": "https://http2.mlstatic.com/D_NQ_NP_2X_840153-MLB119199076870_112026-F-chaleira-eletrica-rosa-britania-19l-inox-bch12rs-110v.webp",
+      "link_exemplo": "https://www.mercadolivre.com.br/chaleira-eletrica-rosa-britania-19l-inox-bch12rs-110v/up/MLBU3567447491?pdp_filters=item_id%3AMLB5315803329&matt_tool=38524122&ua=7vCHXwUNpLDRQPLQ_kubRidtrzFlnF8U41cpgoZLgpuXYzAT#origin=whatsapp&sid=whatsapp&wid=MLB5315803329",
+      "comodo": "Cozinha",
+      "categoria": "Eletrodomestico",
+      "presente": true,
+      "adquirido": false,
+      "id": 14
     }
   ],
   "comodo": [
