@@ -119,6 +119,16 @@
       "presente": true,
       "adquirido": false,
       "id": 12
+    },
+    {
+      "nome": "Espremedor",
+      "foto_exemplo": "https://http2.mlstatic.com/D_NQ_NP_2X_747754-MLA106935034367_022026-F.webp",
+      "link_exemplo": "https://www.mercadolivre.com.br/espremedor-premium-mondial-30w-e-02/p/MLB15478656?pdp_filters=item_id%3AMLB5346750373&matt_tool=38524122&ua=diZJT7AUHVxa26prMJTMMTGRMDq__AIaOEbJXMY8S2EuSmSh#origin=whatsapp&sid=whatsapp&wid=MLB5346750373",
+      "comodo": "Cozinha",
+      "categoria": "Eletrodomestico",
+      "presente": true,
+      "adquirido": false,
+      "id": 13
     }
   ],
   "comodo": [
