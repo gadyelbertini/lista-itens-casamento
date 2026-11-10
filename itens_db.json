@@ -149,6 +149,16 @@
       "presente": true,
       "adquirido": false,
       "id": 15
+    },
+    {
+      "nome": "Ferro de passar",
+      "foto_exemplo": "https://http2.mlstatic.com/D_NQ_NP_2X_931091-MLA99498658714_112025-F.webp",
+      "link_exemplo": "https://www.mercadolivre.com.br/ferro-a-vapor-essentialgliss-azul-com-base-antiaderente-fea1/p/MLB46938756?pdp_filters=item_id%3AMLB6246776732&matt_tool=38524122&ua=BQYI45VcmfMbjxiYEaG3_Pl2gdmev4lnGHnWHv6A99JxDnVn#origin=whatsapp&sid=whatsapp&wid=MLB6246776732",
+      "comodo": "lavanderia",
+      "categoria": "Eletrodomestico",
+      "presente": true,
+      "adquirido": false,
+      "id": 16
     }
   ],
   "comodo": [
