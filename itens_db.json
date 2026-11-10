@@ -99,6 +99,16 @@
       "presente": true,
       "adquirido": false,
       "id": 10
+    },
+    {
+      "nome": "Liquidificador ",
+      "foto_exemplo": "https://http2.mlstatic.com/D_NQ_NP_2X_994704-MLA99941666859_112025-F.webp",
+      "link_exemplo": "https://www.mercadolivre.com.br/liquidificador-pratic-power-mondial-550w-l-97-w/p/MLB34729873?pdp_filters=item_id%3AMLB4078923307&matt_tool=38524122&ua=IPZ4XWyrUVSemZ4KX1jjzJtcKT51okX-EBK7pxbIrdLQ1KGi#origin=whatsapp&sid=whatsapp&wid=MLB4078923307",
+      "comodo": "Cozinha",
+      "categoria": "Eletrodomestico",
+      "presente": true,
+      "adquirido": false,
+      "id": 11
     }
   ],
   "comodo": [
