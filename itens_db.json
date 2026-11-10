@@ -139,6 +139,16 @@
       "presente": true,
       "adquirido": false,
       "id": 14
+    },
+    {
+      "nome": "Batedeira",
+      "foto_exemplo": "https://http2.mlstatic.com/D_NQ_NP_2X_745686-MLA99916516979_112025-F.webp",
+      "link_exemplo": "https://www.mercadolivre.com.br/batedeira-pratica-mondial-400w-b-44-w/p/MLB16016319?pdp_filters=item_id%3AMLB3602563652&matt_tool=38524122&ua=3eHoqUj8u2CUA_BZOeyxrTqs85XAco4SNJk-aqNstsWyPwle#origin=whatsapp&sid=whatsapp&wid=MLB3602563652",
+      "comodo": "Cozinha",
+      "categoria": "Eletrodomestico",
+      "presente": true,
+      "adquirido": false,
+      "id": 15
     }
   ],
   "comodo": [
