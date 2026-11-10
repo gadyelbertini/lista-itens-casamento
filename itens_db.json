@@ -109,6 +109,16 @@
       "presente": true,
       "adquirido": false,
       "id": 11
+    },
+    {
+      "nome": "Sanduicheira",
+      "foto_exemplo": "https://http2.mlstatic.com/D_NQ_NP_2X_890867-MLA99972140577_112025-F.webp",
+      "link_exemplo": "https://www.mercadolivre.com.br/sanduicheira-master-grill-750w-s-20-mondial/p/MLB22517436?pdp_filters=item_id%3AMLB4309475388&matt_tool=38524122&ua=AEU2njzxKYh9x1L66mKRdbBxBJ8hCEWy7vP6jNM6qEFjfvfA#origin=whatsapp&sid=whatsapp&wid=MLB4309475388",
+      "comodo": "Cozinha",
+      "categoria": "Eletrodomestico",
+      "presente": true,
+      "adquirido": false,
+      "id": 12
     }
   ],
   "comodo": [
